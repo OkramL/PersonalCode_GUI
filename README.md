@@ -12,4 +12,4 @@ kontrolli funktsionaalsus. Seda osa hakkavad õpilased tunnis tegema.
 
 # Lingid
 * Youtube [Isikukoodi video](https://www.youtube.com/watch?v=zPjJrLbLS4A)
-* Vikipedia [Isikukoodi teks](https://et.wikipedia.org/wiki/Isikukood)
+* Vikipedia [Isikukoodi tekst](https://et.wikipedia.org/wiki/Isikukood)
