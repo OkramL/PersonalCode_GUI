@@ -23,6 +23,9 @@ class App(tk.Tk):  # App klass on tkinter main window
         # Seadistame controlleri views
         view.set_controller(controller)
 
+        # Enter klahviga saab ka kontrollida isikukoodi
+        self.bind('<Return>', lambda x: view.button_clicked())
+
 
 # Siin käivitatakse rakendus
 if __name__ == '__main__':
