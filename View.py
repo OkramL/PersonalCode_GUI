@@ -26,7 +26,7 @@ class View(ttk.Frame):  # Vaade on Frame mitte main window!
 
         # Veateade
         self.message_label = ttk.Label(self, text='', foreground='red', background='lemonchiffon')
-        self.message_label.grid(row=3, column=0, padx=5, pady=5, columnspan=3, sticky=W)
+        self.message_label.grid(row=4, column=0, padx=5, pady=5, columnspan=3, sticky=W)
 
         # Mitme realine tekstikast (Text) millel on allservas kerimise riba horisontaalis
         self.result = Text(self, width=40, wrap='none')
